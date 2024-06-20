@@ -14,8 +14,8 @@ To set up the project locally, follow these steps:
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/TrainerBE2/16-1Back.git
-    cd 16-1Back
+    git clone https://github.com/baguswijaksono/pm-api.git
+    cd pm-api
     ```
 
 2. **Install Dependencies**:
